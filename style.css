@@ -662,7 +662,8 @@ h4 {
 }
 
 /* COOKIE MESSAGE */
-.cookie-message {
+.inform-message {
+    z-index: 1000!important;
     display: flex;
     align-items: center;
     justify-content: space-evenly;
